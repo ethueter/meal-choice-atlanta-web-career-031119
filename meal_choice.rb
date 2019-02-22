@@ -5,4 +5,4 @@ def meal_choice(choice = "meat")
   puts "I would like a #{choice} meal, please."
 end
 
-meal_choice(vegan)
+meal_choice("vegan")
